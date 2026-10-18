@@ -1,0 +1,248 @@
+[
+  {
+    "id": "donation",
+    "title": "Lazy QI Donator",
+    "tag": "LOW EFFORT",
+    "subtitle": "5.5K progress · A day-by-day donation route",
+    "intro": "Follow the collection screenshots in order. Add your own instructions and reminders to each page.",
+    "pages": [
+      {
+        "title": "Day 1 · Collection 1",
+        "image": "images/donation-01.webp",
+        "description": "",
+        "sourcePage": 1
+      },
+      {
+        "title": "Day 1 Collection 2 + Day 2 Collection 1",
+        "image": "images/donation-02.webp",
+        "description": "",
+        "sourcePage": 2
+      },
+      {
+        "title": "Day 2 · Collection 2",
+        "image": "images/donation-03.webp",
+        "description": "",
+        "sourcePage": 3
+      },
+      {
+        "title": "Day 3 · Collections 1 & 2",
+        "image": "images/donation-04.webp",
+        "description": "",
+        "sourcePage": 4
+      },
+      {
+        "title": "Day 4 · Collection 1",
+        "image": "images/donation-05.webp",
+        "description": "",
+        "sourcePage": 5
+      },
+      {
+        "title": "Day 4 · Collection 2",
+        "image": "images/donation-06.webp",
+        "description": "",
+        "sourcePage": 6
+      },
+      {
+        "title": "Day 5 · Collection 1",
+        "image": "images/donation-07.webp",
+        "description": "",
+        "sourcePage": 7
+      },
+      {
+        "title": "Day 5 · Collection 2",
+        "image": "images/donation-08.webp",
+        "description": "",
+        "sourcePage": 8
+      },
+      {
+        "title": "Day 6 · Collection 1",
+        "image": "images/donation-09.webp",
+        "description": "",
+        "sourcePage": 9
+      },
+      {
+        "title": "Day 6 · Collection 2",
+        "image": "images/donation-10.webp",
+        "description": "",
+        "sourcePage": 10
+      }
+    ],
+    "credit": "Based on a community-shared donation guide; original creators retain credit for their work."
+  },
+  {
+    "id": "advanced",
+    "title": "Advanced QI Settlement",
+    "tag": "ROUND 2+",
+    "subtitle": "Middle Ages · Optimised collections and rebuilds",
+    "intro": "Original cover page removed. Begin with the assumptions and follow the visual collection sequence.",
+    "pages": [
+      {
+        "title": "Basic Assumptions",
+        "image": "images/advanced-01.jpg",
+        "description": "",
+        "sourcePage": 2
+      },
+      {
+        "title": "Following Plan",
+        "image": "images/advanced-02.jpg",
+        "description": "",
+        "sourcePage": 3
+      },
+      {
+        "title": "The pic shows a starting grid. It is a 4x3 expansion lot size.",
+        "image": "images/advanced-03.jpg",
+        "description": "",
+        "sourcePage": 4
+      },
+      {
+        "title": "The aim is to maximise Alloy collection and housing being",
+        "image": "images/advanced-04.jpg",
+        "description": "",
+        "sourcePage": 5
+      },
+      {
+        "title": "Sell 9 Multi-Storey and build 4",
+        "image": "images/advanced-05.jpg",
+        "description": "",
+        "sourcePage": 6
+      },
+      {
+        "title": "2nd Collection",
+        "image": "images/advanced-06.jpg",
+        "description": "",
+        "sourcePage": 7
+      },
+      {
+        "title": "2nd Rebuild",
+        "image": "images/advanced-07.jpg",
+        "description": "",
+        "sourcePage": 8
+      },
+      {
+        "title": "3rd Collection and Rebuild",
+        "image": "images/advanced-08.jpg",
+        "description": "",
+        "sourcePage": 9
+      },
+      {
+        "title": "4th Collection and Rebuild",
+        "image": "images/advanced-09.jpg",
+        "description": "",
+        "sourcePage": 10
+      },
+      {
+        "title": "5th Collection and Rebuild",
+        "image": "images/advanced-10.jpg",
+        "description": "",
+        "sourcePage": 11
+      },
+      {
+        "title": "No more speeding builds and this is the",
+        "image": "images/advanced-11.jpg",
+        "description": "",
+        "sourcePage": 12
+      },
+      {
+        "title": "7th Collection and Rebuild",
+        "image": "images/advanced-12.jpg",
+        "description": "",
+        "sourcePage": 13
+      },
+      {
+        "title": "8th Collection and Rebuild",
+        "image": "images/advanced-13.jpg",
+        "description": "",
+        "sourcePage": 14
+      },
+      {
+        "title": "9th Collection and Rebuild",
+        "image": "images/advanced-14.jpg",
+        "description": "",
+        "sourcePage": 15
+      },
+      {
+        "title": "10th Collection and Rebuild",
+        "image": "images/advanced-15.jpg",
+        "description": "",
+        "sourcePage": 16
+      },
+      {
+        "title": "11th Collection and Rebuild",
+        "image": "images/advanced-16.jpg",
+        "description": "",
+        "sourcePage": 17
+      },
+      {
+        "title": "Estimate Output and Other Useless Info",
+        "image": "images/advanced-17.jpg",
+        "description": "",
+        "sourcePage": 18
+      },
+      {
+        "title": "Goodies in the Pantry",
+        "image": "images/advanced-18.jpg",
+        "description": "",
+        "sourcePage": 19
+      },
+      {
+        "title": "Plenty of Shards but no Goods or Boosts",
+        "image": "images/advanced-19.jpg",
+        "description": "",
+        "sourcePage": 20
+      }
+    ],
+    "credit": "Adapted from a community guide by Ace Preston. Original guide pages retain their attribution."
+  },
+  {
+    "id": "no-stats",
+    "title": "No-Stats QI Build",
+    "tag": "NO STATS",
+    "subtitle": "Community build · Visual progression",
+    "intro": "A visual collection-by-collection route for players building with minimal fighting stats. Review the key rules first.",
+    "pages": [
+      {
+        "title": "Key rules",
+        "image": "images/no-stats-01.webp",
+        "description": "",
+        "sourcePage": 1
+      },
+      {
+        "title": "No-stats visual guide · Page 2",
+        "image": "images/no-stats-02.webp",
+        "description": "",
+        "sourcePage": 2
+      },
+      {
+        "title": "No-stats visual guide · Page 3",
+        "image": "images/no-stats-03.webp",
+        "description": "",
+        "sourcePage": 3
+      },
+      {
+        "title": "No-stats visual guide · Page 4",
+        "image": "images/no-stats-04.webp",
+        "description": "",
+        "sourcePage": 4
+      },
+      {
+        "title": "No-stats visual guide · Page 5",
+        "image": "images/no-stats-05.webp",
+        "description": "",
+        "sourcePage": 5
+      },
+      {
+        "title": "No-stats visual guide · Page 6",
+        "image": "images/no-stats-06.webp",
+        "description": "",
+        "sourcePage": 6
+      },
+      {
+        "title": "No-stats visual guide · Page 7",
+        "image": "images/no-stats-07.webp",
+        "description": "",
+        "sourcePage": 7
+      }
+    ],
+    "credit": "Based on community screenshots and notes. Credit remains with the original contributors."
+  }
+]
