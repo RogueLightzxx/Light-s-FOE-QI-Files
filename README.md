@@ -1,61 +1,61 @@
 <div align="center">
 
-# 🐺 WOLF-PACK QI STRATEGY
-### ⚔️ Forge of Empires · Quantum Incursions
-**From Wolf-Pack members on World 0 — inspired by players around the world.**
+# ⚔️ QI GUIDE HUB
+### 🏰 Build smarter · Donate efficiently · Conquer QI
 
-[![OPEN THE GUIDE HUB](https://img.shields.io/badge/OPEN_THE_GUIDE_HUB-F2BF67?style=for-the-badge&logo=githubpages&logoColor=black)](https://iam3mma.github.io/Light-s-FOE-QI-Files/)
-![Guides](https://img.shields.io/badge/COMMUNITY_GUIDES-3-75DBC9?style=for-the-badge)
+**An easy-to-follow Forge of Empires Quantum Incursions guide library**
 
-**[🚀 LAUNCH WOLF-PACK QI STRATEGY](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
+[![Open Website](https://img.shields.io/badge/OPEN_THE_WEBSITE-18bfa5?style=for-the-badge)](https://iam3mma.github.io/Light-s-FOE-QI-Files/)
+![Guides](https://img.shields.io/badge/Guides-2-263a52?style=for-the-badge)
+![Cost](https://img.shields.io/badge/Access-Free-263a52?style=for-the-badge)
+
+**[🌐 Launch the interactive guide hub](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
 
 </div>
 
 ---
 
-## 🗺️ Pick your QI route
+## 📚 Pick your strategy
 
-| 🟢 Lazy QI Donator | 🔥 Advanced QI Settlement | 🐺 No-Stats QI Build |
-|---|---|---|
-| Low-effort donations and day-by-day screenshots | Round 2+ collection and rebuild strategy | Visual build progression for low-stats play |
-| 10 illustrated pages | 19 illustrated pages | Visual PDF pages |
+| 🪙 Donation Build | 🏰 Advanced Settlement Build |
+|---|---|
+| **5.5K progress · Low effort** | **Round 2+ · Middle Ages** |
+| Day-by-day donation-focused settlement | Detailed collection and rebuild strategy |
+| 10 illustrated guide pages | 20 illustrated guide pages |
+| [**Open guide →**](https://iam3mma.github.io/Light-s-FOE-QI-Files/#donation/1) | [**Open guide →**](https://iam3mma.github.io/Light-s-FOE-QI-Files/#advanced/1) |
 
-All guides include **image zoom**, **page navigation**, **personal notes**, and **completion tracking**.
+## ✨ Website features
 
-## ✍️ Add instructions to a page
+- 📱 Mobile and desktop friendly
+- 🖼️ All 30 illustrated original guide pages
+- 🔍 Tap an image to enlarge it
+- ⏭️ Next/previous page and jump-to-page navigation
+- ☑️ Mark pages complete (progress is stored in your browser)
+- 📝 Selectable instructions beneath each image
 
-To add instructions visible to **everyone**, open `guides.json`, find the relevant guide under `id` (`donation`, `advanced`, or `no-stats`), locate its page and change its `description` from `""` to your text. Commit changes.
+## 🚀 How to use
 
-Visitors can also type personal notes directly on the website. These are stored in **their own browser only**, not uploaded to GitHub.
+1. [**Open the QI Guide Hub**](https://iam3mma.github.io/Light-s-FOE-QI-Files/).
+2. Select **Donation Build** or **Advanced Settlement Build**.
+3. Follow the illustrated instructions and mark each page complete.
+4. Return whenever you need — completed pages remain checked on that browser.
 
-## 🚀 Publish on GitHub Pages
+## 🛠️ GitHub Pages setup
 
-1. Extract the website ZIP on your computer.
-2. Upload **all files and the `images` folder** to the repository root (not the ZIP itself).
-3. In **Settings → Pages**, set **Deploy from a branch → main → /(root)**.
-4. Wait for deployment, then open [the website](https://iam3mma.github.io/Light-s-FOE-QI-Files/).
+This repository needs `index.html`, `script.js`, `style.css`, `guides.json`, and the **entire `images/` folder** at its top level.
 
-### Required folder structure
+Go to **Settings → Pages → Deploy from a branch → main → /(root)**. Wait a few minutes after committing new files, then refresh the website.
 
-```text
-index.html
-style.css
-script.js
-guides.json
-README.md
-images/
-  donation-01.webp ...
-  advanced-01.jpg ...
-  no-stats-01.webp ...
-```
+If guide images don't load, check that `images/donation-01.jpg` exists in the repository. Uploading a ZIP file alone does **not** unpack its contents on GitHub.
 
-## 📜 Community credits
+---
 
-This hub collects community-shared strategies; original guide creators retain credit for their work. The advanced settlement guide is based on material credited to Ace Preston. This is an unofficial fan project, not affiliated with InnoGames. Obtain permission before publicly republishing others' guide images.
+<sub>Community-made navigation site for Forge of Empires players. Original authors' names and credits remain in the source guide pages. This project is unofficial and not affiliated with InnoGames. Please obtain permission before republishing third-party guide content.</sub>
 
 <div align="center">
 
-### 🐺 ONE PACK. MANY STRATEGIES.
-**[OPEN THE WEBSITE →](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
+**⚔️ PLAN · BUILD · PROGRESS**
+
+⭐ Star this repository if it helps your guild!
 
 </div>
