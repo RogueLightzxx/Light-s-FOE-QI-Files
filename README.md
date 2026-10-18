@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🐺 WOLF-PACK QI STRATEGY
+# QUANTUM INCURSIONS STRATEGY GUIDES
 ### ⚔️ Forge of Empires · Quantum Incursions
-**From Wolf-Pack members on World 0 — inspired by players around the world.**
+**Community-shared guides for Forge of Empires players.**
 
 [![OPEN THE GUIDE HUB](https://img.shields.io/badge/OPEN_THE_GUIDE_HUB-F2BF67?style=for-the-badge&logo=githubpages&logoColor=black)](https://iam3mma.github.io/Light-s-FOE-QI-Files/)
 ![Guides](https://img.shields.io/badge/COMMUNITY_GUIDES-3-75DBC9?style=for-the-badge)
 
-**[🚀 LAUNCH WOLF-PACK QI STRATEGY](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
+**[🚀 LAUNCH QI STRATEGY GUIDES](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 🗺️ Pick your QI route
 
-| 🟢 Lazy QI Donator | 🔥 Advanced QI Settlement | 🐺 No-Stats QI Build |
+| 🟢 Lazy QI Donator | 🔥 Advanced QI Settlement | No-Stats QI Build |
 |---|---|---|
 | Low-effort donations and day-by-day screenshots | Round 2+ collection and rebuild strategy | Visual build progression for low-stats play |
 | 10 illustrated pages | 19 illustrated pages | Visual PDF pages |
@@ -55,7 +55,7 @@ This hub collects community-shared strategies; original guide creators retain cr
 
 <div align="center">
 
-### 🐺 ONE PACK. MANY STRATEGIES.
+### MANY APPROACHES. ONE GUIDE HUB.
 **[OPEN THE WEBSITE →](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
 
 </div>
