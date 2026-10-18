@@ -1,111 +1,61 @@
-# ⚔️ QI GUIDE HUB 🏰
-
 <div align="center">
 
-### FORGE OF EMPIRES • QUANTUM INCURSIONS
+# 🐺 WOLF-PACK QI STRATEGY
+### ⚔️ Forge of Empires · Quantum Incursions
+**From Wolf-Pack members on World 0 — inspired by players around the world.**
 
-**BUILD SMARTER • DONATE FASTER • CONQUER MORE**
+[![OPEN THE GUIDE HUB](https://img.shields.io/badge/OPEN_THE_GUIDE_HUB-F2BF67?style=for-the-badge&logo=githubpages&logoColor=black)](https://iam3mma.github.io/Light-s-FOE-QI-Files/)
+![Guides](https://img.shields.io/badge/COMMUNITY_GUIDES-3-75DBC9?style=for-the-badge)
 
-Your home for QI settlement strategies, building layouts, and progression guides.
-
-[![OPEN WEBSITE](https://img.shields.io/badge/🌐_OPEN_WEBSITE-00C9A7?style=for-the-badge)](https://iam3mma.github.io/Light-s-FOE-QI-Files/)
-![Guides](https://img.shields.io/badge/GUIDES-2-blue?style=for-the-badge)
-![Free](https://img.shields.io/badge/ACCESS-FREE-brightgreen?style=for-the-badge)
-
-### 🚀 [LAUNCH THE QI GUIDE HUB](https://iam3mma.github.io/Light-s-FOE-QI-Files/)
+**[🚀 LAUNCH WOLF-PACK QI STRATEGY](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
 
 </div>
 
 ---
 
-## 🏆 CHOOSE YOUR STRATEGY
+## 🗺️ Pick your QI route
 
-### 🟢 GUIDE 01 — DONATION BUILD
+| 🟢 Lazy QI Donator | 🔥 Advanced QI Settlement | 🐺 No-Stats QI Build |
+|---|---|---|
+| Low-effort donations and day-by-day screenshots | Round 2+ collection and rebuild strategy | Visual build progression for low-stats play |
+| 10 illustrated pages | 19 illustrated pages | Visual PDF pages |
 
-**5,500 Progress | Low Effort | 6 Days**
+All guides include **image zoom**, **page navigation**, **personal notes**, and **completion tracking**.
 
-An easy-to-follow strategy for contributing to your guild without spending hours rebuilding.
+## ✍️ Add instructions to a page
 
-- 💰 Zero starting currency required
-- 🏘️ Step-by-step settlement layouts
-- 📅 Day 1–6 instructions
-- ⚡ Efficient resource donations
-- 📸 Screenshots for every stage
+To add instructions visible to **everyone**, open `guides.json`, find the relevant guide under `id` (`donation`, `advanced`, or `no-stats`), locate its page and change its `description` from `""` to your text. Commit changes.
 
-**[▶ VIEW DONATION GUIDE](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
+Visitors can also type personal notes directly on the website. These are stored in **their own browser only**, not uploaded to GitHub.
 
----
+## 🚀 Publish on GitHub Pages
 
-### 🔴 GUIDE 02 — ADVANCED SETTLEMENT
+1. Extract the website ZIP on your computer.
+2. Upload **all files and the `images` folder** to the repository root (not the ZIP itself).
+3. In **Settings → Pages**, set **Deploy from a branch → main → /(root)**.
+4. Wait for deployment, then open [the website](https://iam3mma.github.io/Light-s-FOE-QI-Files/).
 
-**Round 2+ | Middle Ages | High Progress**
+### Required folder structure
 
-For dedicated QI players wanting to maximise settlement efficiency and progression.
+```text
+index.html
+style.css
+script.js
+guides.json
+README.md
+images/
+  donation-01.webp ...
+  advanced-01.jpg ...
+  no-stats-01.webp ...
+```
 
-- ⚔️ Advanced settlement strategies
-- 🏗️ 11 collection and rebuild stages
-- 💎 Resource and alloy optimisation
-- 🏰 Euphoria management
-- 📈 High-progress settlement layouts
+## 📜 Community credits
 
-**[▶ VIEW ADVANCED GUIDE](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
-
----
-
-## ⚔️ COMPARE THE BUILDS
-
-| Feature | 🟢 Donation | 🔴 Advanced |
-|:---|:---:|:---:|
-| Difficulty | Easy | Hard |
-| Time commitment | Low | High |
-| Starting currency | None | Boosts recommended |
-| Settlement screenshots | ✅ | ✅ |
-| Resource optimisation | Basic | Advanced |
-| Frequent rebuilding | Less | More |
-| Best for | Casual players | Dedicated players |
-
----
-
-## 💡 QUICK QI TIPS
-
-> 🪙 **Manage your resources.** Coins, supplies, and alloy are essential for successful settlement development.
-
-> 🏰 **Plan your layout.** Efficient building placement helps maximise your available space.
-
-> ⚡ **Optimise collections.** Building order and euphoria bonuses can make a significant difference.
-
-> ⚔️ **Choose your playstyle.** The best strategy is one that suits your available time.
-
----
-
-## 🔮 COMING SOON
-
-- [ ] More settlement guides
-- [ ] QI resource calculators
-- [ ] Additional building layouts
-- [ ] Beginner tutorials
-- [ ] Updated strategies for future QI changes
-
----
-
-## 📜 CREDITS
-
-This is an unofficial community project for Forge of Empires.
-
-Original guides and strategies belong to their respective creators. Please respect the original authors when sharing their work.
-
-Forge of Empires is owned by InnoGames. This project is not affiliated with or endorsed by InnoGames.
-
----
+This hub collects community-shared strategies; original guide creators retain credit for their work. The advanced settlement guide is based on material credited to Ace Preston. This is an unofficial fan project, not affiliated with InnoGames. Obtain permission before publicly republishing others' guide images.
 
 <div align="center">
 
-### ⚔️ BUILD • OPTIMISE • CONQUER ⚔️
-
-**Made for the Forge of Empires community.**
-
-⭐ Star this repository if you find the guides useful!
-
-### 🌐 [OPEN THE QI WEBSITE](https://iam3mma.github.io/Light-s-FOE-QI-Files/)
+### 🐺 ONE PACK. MANY STRATEGIES.
+**[OPEN THE WEBSITE →](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
 
 </div>
