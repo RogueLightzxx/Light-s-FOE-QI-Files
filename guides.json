@@ -8,61 +8,61 @@
     "pages": [
       {
         "title": "Day 1 · Collection 1",
-        "image": "images/donation-01.webp",
+        "image": "images/donation-01.jpg",
         "description": "",
         "sourcePage": 1
       },
       {
         "title": "Day 1 Collection 2 + Day 2 Collection 1",
-        "image": "images/donation-02.webp",
+        "image": "images/donation-02.jpg",
         "description": "",
         "sourcePage": 2
       },
       {
         "title": "Day 2 · Collection 2",
-        "image": "images/donation-03.webp",
+        "image": "images/donation-03.jpg",
         "description": "",
         "sourcePage": 3
       },
       {
         "title": "Day 3 · Collections 1 & 2",
-        "image": "images/donation-04.webp",
+        "image": "images/donation-04.jpg",
         "description": "",
         "sourcePage": 4
       },
       {
         "title": "Day 4 · Collection 1",
-        "image": "images/donation-05.webp",
+        "image": "images/donation-05.jpg",
         "description": "",
         "sourcePage": 5
       },
       {
         "title": "Day 4 · Collection 2",
-        "image": "images/donation-06.webp",
+        "image": "images/donation-06.jpg",
         "description": "",
         "sourcePage": 6
       },
       {
         "title": "Day 5 · Collection 1",
-        "image": "images/donation-07.webp",
+        "image": "images/donation-07.jpg",
         "description": "",
         "sourcePage": 7
       },
       {
         "title": "Day 5 · Collection 2",
-        "image": "images/donation-08.webp",
+        "image": "images/donation-08.jpg",
         "description": "",
         "sourcePage": 8
       },
       {
         "title": "Day 6 · Collection 1",
-        "image": "images/donation-09.webp",
+        "image": "images/donation-09.jpg",
         "description": "",
         "sourcePage": 9
       },
       {
         "title": "Day 6 · Collection 2",
-        "image": "images/donation-10.webp",
+        "image": "images/donation-10.jpg",
         "description": "",
         "sourcePage": 10
       }
@@ -202,43 +202,43 @@
     "pages": [
       {
         "title": "Key rules",
-        "image": "images/no-stats-01.webp",
+        "image": "images/no-stats-01.jpg",
         "description": "",
         "sourcePage": 1
       },
       {
         "title": "No-stats visual guide · Page 2",
-        "image": "images/no-stats-02.webp",
+        "image": "images/no-stats-02.jpg",
         "description": "",
         "sourcePage": 2
       },
       {
         "title": "No-stats visual guide · Page 3",
-        "image": "images/no-stats-03.webp",
+        "image": "images/no-stats-03.jpg",
         "description": "",
         "sourcePage": 3
       },
       {
         "title": "No-stats visual guide · Page 4",
-        "image": "images/no-stats-04.webp",
+        "image": "images/no-stats-04.jpg",
         "description": "",
         "sourcePage": 4
       },
       {
         "title": "No-stats visual guide · Page 5",
-        "image": "images/no-stats-05.webp",
+        "image": "images/no-stats-05.jpg",
         "description": "",
         "sourcePage": 5
       },
       {
         "title": "No-stats visual guide · Page 6",
-        "image": "images/no-stats-06.webp",
+        "image": "images/no-stats-06.jpg",
         "description": "",
         "sourcePage": 6
       },
       {
         "title": "No-stats visual guide · Page 7",
-        "image": "images/no-stats-07.webp",
+        "image": "images/no-stats-07.jpg",
         "description": "",
         "sourcePage": 7
       }

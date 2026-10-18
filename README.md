@@ -59,3 +59,10 @@ This hub collects community-shared strategies; original guide creators retain cr
 **[OPEN THE WEBSITE →](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
 
 </div>
+
+
+## Updating the website
+
+Upload **index.html**, **script.js**, **style.css**, **guides.json**, and the entire **images/** folder to the root of the repository. Do not upload only the ZIP. GitHub Pages should be set to main / (root).
+
+The homepage should display three guides: Lazy QI Donator, Advanced QI Settlement, and No-Stats QI Build. If a guide is missing, replace `guides.json` and `script.js` and refresh the website.
