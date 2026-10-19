@@ -66,3 +66,7 @@ This hub collects community-shared strategies; original guide creators retain cr
 Upload **index.html**, **script.js**, **style.css**, **guides.json**, and the entire **images/** folder to the root of the repository. Do not upload only the ZIP. GitHub Pages should be set to main / (root).
 
 The homepage should display three guides: Lazy QI Donator, Advanced QI Settlement, and No-Stats QI Build. If a guide is missing, replace `guides.json` and `script.js` and refresh the website.
+
+
+## Updated No-Stats guide (13 collections)
+The no-stats guide is stored in guides.json as 13 separate collection entries, each with its own image and text instructions. Upload ALL extracted files, including guides.json, script.js, index.html, style.css and images/, to the ROOT of the existing GitHub Pages repository. Commit the changes. Check the dropdown reads 1 / 13 rather than 1 / 7. If it still says 1 / 7, hard refresh (Ctrl+Shift+R) and verify guides.json was replaced on GitHub.
