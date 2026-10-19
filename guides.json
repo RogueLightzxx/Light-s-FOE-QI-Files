@@ -195,52 +195,88 @@
   },
   {
     "id": "no-stats",
-    "title": "No-Stats QI Build",
+    "title": "No-Stats QI · 13 Collections",
     "tag": "NO STATS",
-    "subtitle": "Community build · Visual progression",
-    "intro": "A visual collection-by-collection route for players building with minimal fighting stats. Review the key rules first.",
+    "subtitle": "Weak ASF · 0/0 QI stats · 13 collection walkthrough",
+    "intro": "A 13-collection progression for weak ASF with 0/0 QI stats, based on the supplied guide. Each collection has its own screenshot and steps. Initial setup is shown separately in the introduction below. Setup: donate goods in goods mode except rope; early levels 1–3 may require donations.",
     "pages": [
       {
-        "title": "Key rules",
+        "title": "Collection 1",
         "image": "images/no-stats-01.jpg",
-        "description": "",
+        "description": "Collect tannery, replace with churches to build happiness. Collect multistoreys, replace with churches to maximise happiness. Collect the rest. Build 1 shoemaker and check back in an hour. Buy 2 QS shard expansions. Fight after the guild 100% node unlocks, or donate surplus coins.",
         "sourcePage": 1
       },
       {
-        "title": "No-stats visual guide · Page 2",
+        "title": "Collection 2",
         "image": "images/no-stats-02.jpg",
-        "description": "",
+        "description": "Collect tannery and replace with church. Collect multistoreys and replace with churches; use estates if needed to reach maximum happiness. Replace as many estates as possible with breweries. Collect shoemaker. Build 3 more shoemakers; return in an hour and finish rebuilding as shown.",
         "sourcePage": 2
       },
       {
-        "title": "No-stats visual guide · Page 3",
+        "title": "Collection 3",
         "image": "images/no-stats-03.jpg",
-        "description": "",
+        "description": "Follow collection sequence: multistoreys → churches for max happiness; estates if needed; estates → breweries; collect shoemakers. Build 1 ropery and 3 more shoemakers; buy 30 goods expansion. Fill remaining space with 16 multistoreys and estates. Allow QAs to accumulate (guide estimates ~5,000 per collection), or donate/fight if practical.",
         "sourcePage": 3
       },
       {
-        "title": "No-stats visual guide · Page 4",
+        "title": "Collection 4",
         "image": "images/no-stats-04.jpg",
-        "description": "",
+        "description": "Follow the same happiness, brewery and shoemaker collection sequence. Buy 60 goods expansion. Build 1 shoemaker, 1 doctor and 1 trebuchet camp.",
         "sourcePage": 4
       },
       {
-        "title": "No-stats visual guide · Page 5",
+        "title": "Collection 5",
         "image": "images/no-stats-05.jpg",
-        "description": "",
+        "description": "Follow the same collection sequence. Build 1 tower of ruins / group of trees (depending on colour), 2 doctors and 30 trebuchets.",
         "sourcePage": 5
       },
       {
-        "title": "No-stats visual guide · Page 6",
+        "title": "Collection 6",
         "image": "images/no-stats-06.jpg",
-        "description": "",
+        "description": "Follow the same collection sequence. Buy 1 clapboard (rushed) and 90 goods expansion.",
         "sourcePage": 6
       },
       {
-        "title": "No-stats visual guide · Page 7",
+        "title": "Collection 7",
         "image": "images/no-stats-07.jpg",
-        "description": "",
+        "description": "Follow the established collection sequence. Build 2 clapboards (rushed), 30 trebuchets and 1 more decoration (tower ruins / group of trees). Fill remaining space with tanneries rather than estates.",
         "sourcePage": 7
+      },
+      {
+        "title": "Collection 8",
+        "image": "images/no-stats-08.jpg",
+        "description": "Build 1 clapboard (rushed) and 1 bakery (rushed). Buy 130 goods expansion, add 1 decoration and build trebuchets until 70 are in inventory.",
+        "sourcePage": 8
+      },
+      {
+        "title": "Collection 9",
+        "image": "images/no-stats-09.jpg",
+        "description": "Build 2 more clapboards (not rushed) and buy 1 more goods expansion.",
+        "sourcePage": 9
+      },
+      {
+        "title": "Collection 10",
+        "image": "images/no-stats-10.jpg",
+        "description": "During collection, convert tanneries to breweries to boost bakeries. Buy 310 goods expansion. Delete all shoemakers and build 4 bakeries (rushed). Build 2 more clapboards (not rushed) and 1 decoration.",
+        "sourcePage": 10
+      },
+      {
+        "title": "Collection 11",
+        "image": "images/no-stats-11.jpg",
+        "description": "Follow collection sequence: maximise happiness with houses, then convert tanneries to breweries. Buy the final goods expansion, delete ropery and build 1 more decoration.",
+        "sourcePage": 11
+      },
+      {
+        "title": "Collection 12",
+        "image": "images/no-stats-12.jpg",
+        "description": "Collect all, following the established collection sequence. Build additional trebuchets as desired; otherwise no further changes.",
+        "sourcePage": 12
+      },
+      {
+        "title": "Collection 13",
+        "image": "images/no-stats-13.jpg",
+        "description": "Flip the whole town and follow the collection sequence. Build 300 trebuchets and 16 doctors, plus decorations as shown. The source notes up to 500 trebuchets may be possible with surplus supplies; plan the town flip accordingly.",
+        "sourcePage": 13
       }
     ],
     "credit": "Based on community screenshots and notes. Credit remains with the original contributors."

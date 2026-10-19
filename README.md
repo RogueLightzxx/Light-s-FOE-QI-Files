@@ -4,10 +4,10 @@
 ### ⚔️ Forge of Empires · Quantum Incursions
 **Community-shared guides for Forge of Empires players.**
 
-[![OPEN THE GUIDE HUB](https://img.shields.io/badge/OPEN_THE_GUIDE_HUB-F2BF67?style=for-the-badge&logo=githubpages&logoColor=black)](https://iam3mma.github.io/Light-s-FOE-QI-Files/)
+[![OPEN THE GUIDE HUB](https://img.shields.io/badge/OPEN_THE_GUIDE_HUB-F2BF67?style=for-the-badge&logo=githubpages&logoColor=black)](https://roguelightzxx.github.io/Light-s-FOE-QI-Files/)
 ![Guides](https://img.shields.io/badge/COMMUNITY_GUIDES-3-75DBC9?style=for-the-badge)
 
-**[🚀 LAUNCH QI STRATEGY GUIDES](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
+**[🚀 LAUNCH QI STRATEGY GUIDES](https://roguelightzxx.github.io/Light-s-FOE-QI-Files/)**
 
 </div>
 
@@ -18,13 +18,13 @@
 | 🟢 Lazy QI Donator | 🔥 Advanced QI Settlement | No-Stats QI Build |
 |---|---|---|
 | Low-effort donations and day-by-day screenshots | Round 2+ collection and rebuild strategy | Visual build progression for low-stats play |
-| 10 illustrated pages | 19 illustrated pages | Visual PDF pages |
+| 10 illustrated pages | 19 illustrated pages | 13 illustrated collections with written instructions |
 
 All guides include **image zoom**, **page navigation**, **personal notes**, and **completion tracking**.
 
 ## ✍️ Add instructions to a page
 
-To add instructions visible to **everyone**, open `guides.json`, find the relevant guide under `id` (`donation`, `advanced`, or `no-stats`), locate its page and change its `description` from `""` to your text. Commit changes.
+To update the existing instructions visible to **everyone**, open `guides.json`, find the relevant guide under `id` (`donation`, `advanced`, or `no-stats`), locate its page and edit its `description` text. Commit changes.
 
 Visitors can also type personal notes directly on the website. These are stored in **their own browser only**, not uploaded to GitHub.
 
@@ -33,7 +33,7 @@ Visitors can also type personal notes directly on the website. These are stored 
 1. Extract the website ZIP on your computer.
 2. Upload **all files and the `images` folder** to the repository root (not the ZIP itself).
 3. In **Settings → Pages**, set **Deploy from a branch → main → /(root)**.
-4. Wait for deployment, then open [the website](https://iam3mma.github.io/Light-s-FOE-QI-Files/).
+4. Wait for deployment, then open [the website](https://roguelightzxx.github.io/Light-s-FOE-QI-Files/).
 
 ### Required folder structure
 
@@ -56,7 +56,7 @@ This hub collects community-shared strategies; original guide creators retain cr
 <div align="center">
 
 ### MANY APPROACHES. ONE GUIDE HUB.
-**[OPEN THE WEBSITE →](https://iam3mma.github.io/Light-s-FOE-QI-Files/)**
+**[OPEN THE WEBSITE →](https://roguelightzxx.github.io/Light-s-FOE-QI-Files/)**
 
 </div>
 
