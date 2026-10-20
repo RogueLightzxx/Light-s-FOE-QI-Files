@@ -70,6 +70,140 @@
     "credit": "Based on a community-shared donation guide; original creators retain credit for their work."
   },
   {
+    "id": "shard-saver-round1",
+    "title": "QI Shard Saver – Round 1 (Slow)",
+    "tag": "ADVANCED · ROUND 1",
+    "subtitle": "Slower, shard-conscious opening · Convert before Round 2+",
+    "intro": "A slower Round 1 settlement plan focused on conserving shards before converting to a boosted army layout and moving to Advanced QI Settlement in later rounds. Follow the 14 collection stages in order. Building counts and balances are taken from the supplied community document; actual results vary.",
+    "pages": [
+      {
+        "title": "Initial build / Collection 1",
+        "image": "images/shard-saver-round1-01.png",
+        "description": "Start with 3 QS expansions and 1 goods expansion. Build 27 multistorey houses and 25 estate houses with the 670k starting coin budget. Starting balance: 0 coins, 295k supplies, 0 alloy. For the first collection, progressively collect and sell multistoreys and estates, temporarily replacing them with churches to raise happiness. Sell churches. Build 2 shoemakers, 24 multistoreys and 25 estates. Return after 1 hour. Source balance: 2.3M coins, 245k supplies, 141 alloy.",
+        "sourcePage": 1
+      },
+      {
+        "title": "Collection 2",
+        "image": "images/shard-saver-round1-02.png",
+        "description": "Collect and sell houses in stages while building churches for happiness. Sell remaining estates and replace with 6 multistoreys and 1 mansion. Build 12 breweries, collect shoemakers, then sell churches, breweries and mansion. Build 6 shoemakers, 18 multistoreys and 22 estates. Return after 1 hour. Source balance: 3.9M coins, 313k supplies, 67 alloy.",
+        "sourcePage": 1
+      },
+      {
+        "title": "Collection 3",
+        "image": "images/shard-saver-round1-03.png",
+        "description": "Use the same staged collection and church-happiness cycle. Sell all but 4 estates and add 5 multistoreys. Build 6 breweries; collect shoemakers; sell churches and breweries. Build 10 shoemakers, 1 ropery, 14 multistoreys and 15 estates. Return after 1 hour, then build 2 rope expansions and 8 estates. Source balance: 4.5M coins, 287k supplies, 151 alloy.",
+        "sourcePage": 2
+      },
+      {
+        "title": "Collection 4",
+        "image": "images/shard-saver-round1-04.png",
+        "description": "Collect houses in stages with churches, then sell churches. Build 1 rope expansion. End with 4 multistoreys, 8 breweries, 2 doctors, 14 estates, 10 shoemakers and 1 ropery. Source balance: 5.0M coins, 201k supplies, 661 alloy.",
+        "sourcePage": 2
+      },
+      {
+        "title": "Collection 5",
+        "image": "images/shard-saver-round1-05.png",
+        "description": "Collect all. Build 1 rope expansion. Sell multistoreys and add 2 clapboard houses (instant finish), 16 estates, 10 breweries, 10 shoemakers, 2 doctors and 1 ropery. Source balance: 4.4M coins, 391k supplies, 196 alloy.",
+        "sourcePage": 3
+      },
+      {
+        "title": "Collection 6",
+        "image": "images/shard-saver-round1-06.png",
+        "description": "Collect all. Build 1 rope expansion. Sell 5 estates and build 3 clapboard houses (1 new, instant finish), 3 doctors (1 new), 1 mansion (new), 12 breweries (2 new), 11 estates, 10 shoemakers and 1 ropery. Source balance: 4.9M coins, 621k supplies, 981 alloy.",
+        "sourcePage": 3
+      },
+      {
+        "title": "Collection 7",
+        "image": "images/shard-saver-round1-07.png",
+        "description": "Collect all. Build 1 rope expansion and sell ropery. Sell 5 estates and 1 brewery; build 4 clapboard houses (1 new), 2 bakeries (new), 3 doctors, 6 multistoreys (new), 6 estates, 11 breweries and 10 shoemakers. Source balance: 5.4M coins, 762k supplies, 661 alloy.",
+        "sourcePage": 4
+      },
+      {
+        "title": "Collection 8",
+        "image": "images/shard-saver-round1-08.png",
+        "description": "Collect all. Sell 3 estates and build 3 more clapboard houses. Source balance: 6.5M coins, 1.5M supplies, 276 alloy.",
+        "sourcePage": 4
+      },
+      {
+        "title": "Collection 9",
+        "image": "images/shard-saver-round1-09.png",
+        "description": "Collect all. Sell 5 shoemakers, all estates and 2 multistoreys. Build 1 mansion (new), 8 clapboard houses (1 new), 13 breweries (2 new), 5 bakeries (3 new), 1 beekeeper (new), 4 multistoreys, 5 shoemakers and 3 doctors. Source balance: 7.7M coins, 2.9M supplies, 21 alloy.",
+        "sourcePage": 5
+      },
+      {
+        "title": "Collection 10",
+        "image": "images/shard-saver-round1-10.png",
+        "description": "Collect all. Build 3 honey expansions. Sell beekeeper, last 5 shoemakers, mansion and multistoreys. Build 9 estate houses (new), 17 breweries (4 new), 8 bakeries (3 new), 1 cannon camp (new), 8 clapboard houses and 3 doctors.",
+        "sourcePage": 5
+      },
+      {
+        "title": "Collection 11",
+        "image": "images/shard-saver-round1-11.png",
+        "description": "Collect all and train 300 cannons. Sell cannon camp and 1 estate house. Build 10 gunpowder manufactories (new), 18 breweries (1 new), 8 bakeries, 8 estates and 8 clapboard houses. Source balance: 7.2M coins, 936k supplies, 5,876 alloy.",
+        "sourcePage": 6
+      },
+      {
+        "title": "Collection 12",
+        "image": "images/shard-saver-round1-12.png",
+        "description": "Collect all. Build last goods expansion using gunpowder. Sell gunpowder manufactories. Build 9 estate houses (1 new), 2 cartographers (new), 19 breweries (1 new), 8 clapboard houses, 8 bakeries and 3 doctors.",
+        "sourcePage": 6
+      },
+      {
+        "title": "Collection 13",
+        "image": "images/shard-saver-round1-13.png",
+        "description": "Collect all. Source balance: 12.7M coins, 5.4M supplies, 17,766 alloy. Prepare for the final settlement conversion.",
+        "sourcePage": 7
+      },
+      {
+        "title": "Collection 14 / Conversion",
+        "image": "images/shard-saver-round1-14.png",
+        "description": "Collect all. Sell all houses and supply buildings. Build 30 doctors, 9 cartographers, 48 gargoyles and 2 nautical statues, adjusting the exact mix to your available supplies, alloy and boost needs. The source suggests an alternative conversion at collection 13 if no boost is required: 2 pillories, 38 doctors and 4 cartographers. This is the transition point before moving to the other advanced approach.",
+        "sourcePage": 7
+      }
+    ],
+    "credit": "Based on the supplied QI_ShardSaverXiarmy.docx community guide. Original creator attribution should be retained or added when known."
+  },
+  {
+    "id": "beginner-v2",
+    "title": "Beginner Version 2 · Faster Finish",
+    "tag": "~75% QI STATS",
+    "subtitle": "Higher-stat beginner route · Intended to finish earlier than the slow shard-saving plan",
+    "intro": "A faster beginner-oriented alternative based on the supplied “z Qi Eng” guide. Suggested for players with around 75% QI attack stats; this percentage is a user-provided target, not a verified minimum. The guide itself stresses having QI attack buildings. This approach can use shards for expansions and optional speed-ups, so it is not the cheapest route. Follow the source-page images and the attempt instructions below.",
+    "pages": [
+      {
+        "title": "Overview & layout",
+        "image": "images/beginner-v2-01.png",
+        "description": "Requires QI attack buildings such as Forgotten Temple, Tourney Ground, Yuki, and Baroque/Osbian Tower. Ascended buildings such as Snowdrop Garden help. Each 6x6 area fits nine 2x2 houses or four 3x3 buildings.",
+        "sourcePage": 1
+      },
+      {
+        "title": "Attempt 1 · Initial build",
+        "image": "images/beginner-v2-02.png",
+        "description": "Open 3 shard expansions for a 3x5 tile; clear rocks if necessary. Build 7 Estate Houses, 1 Mansion, 1 Multistorey House, 2 Churches, 6 Tanneries, 6 Breweries and 9 additional Multistorey Houses. Donate goods and fight easy nodes.",
+        "sourcePage": 2
+      },
+      {
+        "title": "Attempt 2 · Church swaps",
+        "image": "images/beginner-v2-03.png",
+        "description": "Replace 9 Multistorey Houses in sequence with 4 Churches (remove 4, then 2, then 2, then 1); wait 5 seconds between builds. Harvest approximately 400 alloy and other resources. Remove Churches; build a Catapult, buy 30 soldiers and delete it. Rebuild 9 Multistorey Houses. Replace 2 Tanneries with 2 Shoemakers.",
+        "sourcePage": 3
+      },
+      {
+        "title": "Attempts 3–4 · Build alloy",
+        "image": "images/beginner-v2-04.png",
+        "description": "Attempt 3: repeat the 9-house to 4-Church swap; wait 5 seconds between builds; harvest about 596 alloy; replace 2 Tanneries with Shoemakers. Attempt 4: harvest about 792 alloy; delete 5 Churches, build 1 Doctor and 9 Multistorey Houses; replace 2 Tanneries with Shoemakers.",
+        "sourcePage": 4
+      },
+      {
+        "title": "Attempts 5–7 · Expand and fight",
+        "image": "images/beginner-v2-05.png",
+        "description": "Attempt 5: perform Church swap; harvest about 1,000 alloy; build Ropery and purchase 3 expansions, waiting 1 hour or optionally using 25 shards to speed up. Build 4 Frame Houses, 3 Churches and Multistorey Houses. Attempt 6: harvest about 1,400 alloy; buy a rope expansion and delete Ropery; add 2 Frame Houses and a Cannon Camp, noting resource limits. Attempt 7: reach 150% Euphoria before harvest; aim for 1,700 alloy; add Doctor, Clapboard House and decorations, then buy Cannons. Later: build toward 2 Bakeries and 2 Clapboard Houses; collect ~13,000 alloy, 6m coins, 5m supplies, buy 200–300 Cannons, then rebuild toward 18 Doctors and 20 Groups of Trees.",
+        "sourcePage": 5
+      }
+    ],
+    "credit": "Based on the user-provided z Qi Eng guide. Its original diagrams and instructions are preserved in the page screenshots."
+  },
+  {
     "id": "advanced",
     "title": "Advanced QI Settlement",
     "tag": "ROUND 2+",
